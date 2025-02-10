@@ -17,4 +17,4 @@ GCP DevOps refers to the practice of implementing DevOps principles and practice
 
 GCP DevOps leverages Google Cloud's global infrastructure and scalable services to optimize the development and operations process, aiming for faster iteration, innovation, and deployment, while maintaining reliability and security.
 
-Test GCP trigger
+Test GCP triggers
